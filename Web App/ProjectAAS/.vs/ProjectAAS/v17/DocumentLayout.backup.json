@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|d:\\repos\\unwe\\web app\\projectaas\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|solutionrelative:configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|D:\\repos\\UNWE\\Web App\\ProjectAAS\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|D:\\repos\\UNWE\\Web App\\ProjectAAS\\dbmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573ED383-C890-4237-A18E-F95CBDE9B3EB}|ProjectAAS.csproj|solutionrelative:dbmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T13:23:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\Configurator.cs",
+              "RelativeDocumentMoniker": "Configurator.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\Configurator.cs",
+              "RelativeToolTip": "Configurator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:17:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManipulator.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\DBManipulator.cs",
+              "RelativeDocumentMoniker": "DBManipulator.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Web App\\ProjectAAS\\DBManipulator.cs",
+              "RelativeToolTip": "DBManipulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:17:03.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.exe.config
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.exe
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.pdb
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.AssemblyReference.cache
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.Form1.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormSpecialty.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.Properties.Resources.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.GenerateResource.cache
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.CoreCompileInputs.cache
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.exe
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.pdb
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormStudent.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormSubject.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormGrade.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditSpecialty.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewSpecialties.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditSubject.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewSubjects.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditStudent.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewStudents.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewGrades.resources
+D:\Courses\UNWE\4th Year\8th Semester\Development and management of integrated information systems\Assignments\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditGrade.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.exe.config
+D:\repos\UNWE\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.exe
+D:\repos\UNWE\Desktop App\ProjectWFA\bin\Debug\ProjectWFA.pdb
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.AssemblyReference.cache
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.Form1.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditGrade.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditSpecialty.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditStudent.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormEditSubject.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormGrade.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormSpecialty.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormStudent.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormSubject.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewGrades.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewSpecialties.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewStudents.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.FormViewSubjects.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.Properties.Resources.resources
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.GenerateResource.cache
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.csproj.CoreCompileInputs.cache
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.exe
+D:\repos\UNWE\Desktop App\ProjectWFA\obj\Debug\ProjectWFA.pdb

@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|d:\\repos\\unwe\\desktop app\\projectwfa\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\dbmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:dbmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewgrades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewgrades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formeditspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formeditspecialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\formviewsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:formviewsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E66D40-1448-4368-AB6E-AB6D182E7893}|ProjectWFA.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormEditGrade.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditGrade.cs",
+              "RelativeDocumentMoniker": "FormEditGrade.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditGrade.cs",
+              "RelativeToolTip": "FormEditGrade.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:34:01.689Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEditStudent.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditStudent.cs",
+              "RelativeDocumentMoniker": "FormEditStudent.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditStudent.cs",
+              "RelativeToolTip": "FormEditStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:17:13.823Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Configurator.cs",
+              "RelativeDocumentMoniker": "Configurator.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Configurator.cs",
+              "RelativeToolTip": "Configurator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwPwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:04:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:08:16.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormStudent.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormStudent.cs",
+              "RelativeDocumentMoniker": "FormStudent.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:11:21.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormGrade.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormGrade.cs",
+              "RelativeDocumentMoniker": "FormGrade.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormGrade.cs",
+              "RelativeToolTip": "FormGrade.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vyYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:47:31.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEditGrade.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditGrade.cs",
+              "RelativeDocumentMoniker": "FormEditGrade.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditGrade.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditGrade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:32:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormViewStudents.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewStudents.cs",
+              "RelativeDocumentMoniker": "FormViewStudents.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewStudents.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:14:56.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormStudent.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormStudent.cs",
+              "RelativeDocumentMoniker": "FormStudent.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormStudent.cs",
+              "RelativeToolTip": "FormStudent.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:26:23.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManipulator.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\DBManipulator.cs",
+              "RelativeDocumentMoniker": "DBManipulator.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\DBManipulator.cs",
+              "RelativeToolTip": "DBManipulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:45:05.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSubject.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSubject.cs",
+              "RelativeDocumentMoniker": "FormSubject.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSubject.cs",
+              "RelativeToolTip": "FormSubject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:10:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSpecialty.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSpecialty.cs",
+              "RelativeDocumentMoniker": "FormSpecialty.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSpecialty.cs",
+              "RelativeToolTip": "FormSpecialty.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:09:48.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSubject.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSubject.cs",
+              "RelativeDocumentMoniker": "FormSubject.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormSubject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:36:05.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormGrade.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormGrade.cs",
+              "RelativeDocumentMoniker": "FormGrade.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormGrade.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormGrade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:45:49.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormViewGrades.Designer.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewGrades.Designer.cs",
+              "RelativeDocumentMoniker": "FormViewGrades.Designer.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewGrades.Designer.cs",
+              "RelativeToolTip": "FormViewGrades.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:23:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSpecialty.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormSpecialty.cs",
+              "RelativeDocumentMoniker": "FormSpecialty.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormSpecialty.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormSpecialty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:51:33.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormViewStudents.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewStudents.cs",
+              "RelativeDocumentMoniker": "FormViewStudents.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewStudents.cs",
+              "RelativeToolTip": "FormViewStudents.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:19:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:22:35.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormEditStudent.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditStudent.cs",
+              "RelativeDocumentMoniker": "FormEditStudent.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:16:22.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormViewSpecialties.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSpecialties.cs",
+              "RelativeDocumentMoniker": "FormViewSpecialties.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSpecialties.cs",
+              "RelativeToolTip": "FormViewSpecialties.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:58:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormViewGrades.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewGrades.cs",
+              "RelativeDocumentMoniker": "FormViewGrades.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewGrades.cs",
+              "RelativeToolTip": "FormViewGrades.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:23:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormViewSpecialties.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSpecialties.cs",
+              "RelativeDocumentMoniker": "FormViewSpecialties.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewSpecialties.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewSpecialties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:23:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormViewGrades.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewGrades.cs",
+              "RelativeDocumentMoniker": "FormViewGrades.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewGrades.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewGrades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:20:39.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormEditSubject.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditSubject.cs",
+              "RelativeDocumentMoniker": "FormEditSubject.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditSubject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:35:13.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormEditSpecialty.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditSpecialty.cs",
+              "RelativeDocumentMoniker": "FormEditSpecialty.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditSpecialty.cs",
+              "RelativeToolTip": "FormEditSpecialty.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:04:45.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormViewSubjects.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSubjects.cs",
+              "RelativeDocumentMoniker": "FormViewSubjects.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSubjects.cs",
+              "RelativeToolTip": "FormViewSubjects.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:36:36.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormEditSpecialty.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormEditSpecialty.cs",
+              "RelativeDocumentMoniker": "FormEditSpecialty.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditSpecialty.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormEditSpecialty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:04:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormViewSubjects.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\FormViewSubjects.cs",
+              "RelativeDocumentMoniker": "FormViewSubjects.cs",
+              "ToolTip": "D:\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewSubjects.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Courses\\UNWE\\4th Year\\8th Semester\\Development and management of integrated information systems\\Assignments\\Desktop App\\ProjectWFA\\FormViewSubjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:33:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\repos\\UNWE\\Desktop App\\ProjectWFA\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:29:58.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
